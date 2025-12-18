@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (tugas pratikum 09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\25.11.6520\09\tugas pratikum 09\tugas pratikum 09\main.cpp(43,21): warning C4293: '<<': shift count negative or too big, undefined behavior
+D:\25.11.6520\09\tugas pratikum 09\tugas pratikum 09\main.cpp(43,9): warning C4552: '<<': result of expression not used
+  tugas pratikum 09.vcxproj -> D:\25.11.6520\09\tugas pratikum 09\x64\Debug\percobaan pratikum 09.exe
